@@ -1,0 +1,115 @@
+* {
+    text-align:center;
+    background-color:#FBFAF2;
+}
+  
+  .Welcome {
+    background-color: #9CADC7;
+     color:white;
+    font-size:20px;
+  }
+  
+  .Teacher {
+    background-color: #9CADC7;
+    font-size: 20px;
+    color:white;
+    top-color: white;
+  }
+  
+  .Thanks {
+    background-color: #9CADC7;
+    color: white;
+    height: 40px;
+    margin:0;
+    padding:0;
+  }
+  
+  .NOW {
+    font-size: 22px;
+    background-color: #9CADC7;
+    color: white;
+  }
+  
+  .Copyright {
+    background-color: #9CADC7;
+    height: 40px;
+    color: white;
+    margin: 0
+  }
+  
+  .Shop {
+    border: #E3DAC9 solid 5px;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 10px;
+  }
+  
+  .Home {
+    border: #E3DAC9 solid 5px;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 10px;
+  }
+  
+  .Contacts {
+   
+    border: #E3DAC9 solid 5px;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 10px;
+  }
+  
+  .keys {
+    border: #E3DAC9 solid 5px;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 10px;
+    }
+    
+    .supplies {
+    border: #E3DAC9 solid 5px;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    border-width: 10px;
+    }
+    
+    .Fund {
+      font-size:20px;
+    }
+  
+    .Items {
+      display:block
+    }
+  
+    .Menu {
+      background-color: #9CADC7;
+      color: white;
+    }
+    
+    .Luxury {
+      font-size:40px;
+      margin:0px;
+      padding:0px;
+    }
+    
+    .Hop {
+      font-size:35px;
+    }
+
+    .Services {
+      font-size:35px;
+    }
+
+    .ome {
+      font-size:35px;
+    }
